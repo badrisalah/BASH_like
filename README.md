@@ -1,6 +1,6 @@
 🐚 MyShell — A Simple UNIX-like Shell
 
-MyShell is a lightweight, interactive command-line interpreter written in C (or your language) that mimics the behavior of a traditional UNIX shell. It supports built-in commands, process creation, I/O redirection, and more.
+MyShell is a lightweight, interactive command-line interpreter written in C , it mimics the behavior of a traditional UNIX shell. It supports built-in commands, process creation, I/O redirection, and more.
 
 🚀 Features
 
